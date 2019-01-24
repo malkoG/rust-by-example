@@ -1,0 +1,6 @@
+[package]
+name = "formatting_color"
+version = "0.1.0"
+authors = ["KODING WARRIOR <rijgndqw012@gmail.com>"]
+
+[dependencies]

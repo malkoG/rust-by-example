@@ -1,0 +1,6 @@
+[package]
+name = "fmt_display_practice"
+version = "0.1.0"
+authors = ["KODING WARRIOR <rijgndqw012@gmail.com>"]
+
+[dependencies]
